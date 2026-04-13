@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-unit-testing-assignment",
+  "version": "1.0.0",
+  "description": "NodeJS Unit Testing Assignment using Jest",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "nodejs",
+    "jest",
+    "unit-testing",
+    "math"
+  ],
+  "author": "Kari Ganson",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
